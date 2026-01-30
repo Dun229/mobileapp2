@@ -115,7 +115,7 @@ reset.addEventListener("click",
   function () {
     if (soundEndflag === "1") {
       soundControl("end", "");
-      document.body.style.backgroundColor = "rgba(233, 168, 227, 0.6)";
+      //document.body.style.backgroundColor = "rgba(233, 168, 227, 0.6)";
       document.body.style.backgroundBlendMode = "soft-light";
   
     };

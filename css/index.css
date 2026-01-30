@@ -26,8 +26,9 @@ body {
         Meiryo,
         sans-serif;
     text-align: center;
-    background-image: url(../img/chokinh.jpg);
-    background-size: cover;
+    background-image: url(../img/thu.jpg);
+    background-size: auto;
+    background-repeat: repeat-x;
     overflow: hidden;
 }
 
@@ -197,7 +198,7 @@ footer>p {
 /* https://www.design-memo.com/coding/css-media-queries */
 /* mobileのときのスタイル */
 /*******************************************************/
-@media screen and (max-width: 100px) {
+@media screen and (max-width: 200px) {
     body {
         background-size: auto 1000px;
     }
