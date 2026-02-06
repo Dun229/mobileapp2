@@ -20,7 +20,8 @@ body{
   Meiryo,
   sans-serif;
   /* background: rgb(233, 168, 227); */
-  background: #bf7fff;
+  /*background: #bf7fff;*/
+  background-image: url(../img/xanhduong.jpg);
   overflow: hidden;
 }
 
