@@ -19,7 +19,8 @@ body {
   "Hiragino Sans",
   Meiryo,
   sans-serif;
-  background: #EEEEEE;
+  background-image: url(../bac.jpg);
+  background-size:100%;
   overflow: hidden;
 }
 /*******************************************************/

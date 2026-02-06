@@ -22,7 +22,9 @@ body {
   "Hiragino Sans",
   Meiryo,
   sans-serif;
-  background: #EEEEEE;
+  background-image:url(../cuu2.jpg);
+  background-size: cover;
+  
   overflow: hidden;
 }
 /*******************************************************/
